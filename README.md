@@ -1,6 +1,6 @@
 #### omadm service Doze
 
-(设备管理服务)Make omadm service sleeping at doze!
+Make omadm service sleeping at doze!
 
 #### NOTICE
 
@@ -13,4 +13,4 @@ Magisk v13 Template v4 compatabilities
 * Copyright (C) 2017 873578156 <873578156@qq.com>
 * Any issue or pull request is welcomed.
 * Star this module at [GitHub](https://github.com/873578156/magisk-omadm-service-doze).
-* In theory, all native ROM are generic, but only tested on nexus6P6.0.1.
+* In theory, all native ROM are generic, but only tested on nexus6P on 6.0.1.
