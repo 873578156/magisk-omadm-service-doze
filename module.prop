@@ -1,0 +1,7 @@
+id=omadm-service-doze
+name=Enable Doze for omadm service(设备管理服务)
+version=1.0
+versionCode=1
+author=873578156
+description=Enable Doze for omadm service
+template=4
